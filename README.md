@@ -1,5 +1,5 @@
 # HVAC
-ML model to predict the Heating, ventilation, and air conditioning (HVAC) system behaviour.
+ML model to predict the Heating, ventilation, and air conditioning (HVAC) system behavior.
 
 This is my solution for a "Technical Session" interview at some company... 🙂
 
